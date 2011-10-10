@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site>
+	<section name="association">
+		<page>
+			<uri>apihms/association/index</uri>
+			<url></url>
+			<title>Qu'est ce que l'APIHMS ?</title>
+			<description></description>
+			<content>
+				<![CDATA[
+					<p>&laquo; L'Association pour la Promotion des Intellectuels Handicapés Moteurs ou Sensoriels (APIHMS), fondée en 1970, a pour objet de promouvoir l'insertion ou la réinsertion sociale des personnes atteintes d'un handicap moteur ou sensoriel par le développement et l'utilisation de leurs aptitudes intellectuelles. Elle s'emploie à rechercher tout type de solution répondant à leurs problèmes, à informer le public et à regrouper tous les sympathisants.&raquo; (extrait des statuts)</p>
+					<p>L'APIHMS affirme avec vigueur que le handicap physique, congénital ou accidentel, ne doit pas interdire le développement des facultés intellectuelles, ni s'opposer à l'épanouissement de la personne handicapée ou à son accès à la vie sociale, culturelle et professionnelle.</p>
+					<p>Organisme de proposition et non de gestion, elle se présente comme un cercle d'étude et de réflexion et elle met en place des aides concrètes pour des lycéens et des étudiants en situation de handicap, afin de créer les meilleures conditions pour la réussite de leurs études.</p>
+				]]>
+			</content>
+		</page>
+		<page>
+			<uri>apihms/association/40-ans-au-service-de-l-insertion</uri>
+			<url>news/40-ans-au-service-de-l-insertion</url>
+			<title>Au service de l'insertion</title>
+			<description></description>
+			<content>
+				<![CDATA[
+					<p>L'APIHMS, créée en 1970 par un professeur du lycée spécialisé <em>Le Parc Saint-Agne</em> devenu <em>Centre Jean Lagarde</em>, organise pour l'anniversaire de ses 40 ans une manifestation sur les thèmes de l'<strong>inclusion scolaire</strong> et universitaire et de l'<strong>insertion professionnelle</strong> de personnes atteintes d'un handicap moteur ou sensoriel.</p>
+					<div class="cadre">
+						<p>Mardi 14 décembre 2010, de 14 heures à 17 heures 30</p>
+						<address>Salle Duranti<br />
+						6 rue du lieutenant-colonel Pélissier<br />
+						31000 TOULOUSE</address>
+					</div>
+					<p>L'exposé de chaque intervenant sera suivi du témoignage respectivement d'un lycéen, d'un étudiant et d'une personne insérée dans le monde professionnel puis d'un débat avec le public.</p>
+					<h2>Programme</h2>
+					<h3>Le vivre ensemble à l'école</h3>
+					<p>Le Docteur <strong>Emmanuelle Godeau</strong>, médecin de santé publique Service médical du Rectorat de Toulouse (UMR Inserm U558, Université Paul Sabatier). Présidente de l'association l'<a href="http://lesperluette31.voila.net/">Esperluette</a></p>
+					<h3>L'expérience du handicap à l'université</h3>
+					<p><strong>Jean-Paul Génolini</strong>, Maître de conférences UFR STAPS de l'Université de Paul Sabatier. Administrateur de l'association <a href="http://lesperluette31.voila.net/">Esperluette</a>.</p>
+					<h3>L'insertion professionnelle des personnes handicapées, le cadre légal</h3>
+					<p><strong>Jean-Luc Abitteboul</strong> directeur de <a href="http://www.capemploi31.com/">CAP emploi 31</a></p>
+				]]>
+			</content>
+		</page>
+		<page>
+			<uri>apihms/association/historique</uri>
+			<url>historique</url>
+			<title>Historique</title>
+			<description></description>
+			<content>
+				<![CDATA[
+					<p>L'APIHMS  a été créée en 1970 par Gilbert Azam, professeur agrégé d'espagnol au lycée spécialisé &laquo; Le Parc Saint-Agne &raquo; à Ramonville, établissement (collège, lycée, lycée professionnel) devenu depuis 2001 le Centre Jean Lagarde.</p>
+					<p>M. Azam était lui-même handicapé et avait  rencontré pour cette raison des difficultés pratiques dans son cursus universitaire. C'est pour améliorer les conditions de vie des étudiants handicapés mais également pour défendre pour eux une promotion à la mesure de leurs compétences qu'il avait créé l'APIHMS, en s'entourant de personnes, handicapées ou non, mobilisées par cet objectif.</p>
+					<p>Après le décès de M. Azam en 1986, Christian Séréna, professeur d'anglais au Parc Saint-Agne, a assuré la présidence de l'Association pendant une année.</p>
+					<p>Depuis 1988, Philippe Boissière, ancien élève du Parc Saint Agne et ingénieur-chercheur à l'IRIT (Institut de Recherche en Informatique de Toulouse) assume la présidence de l'APIHMS.</p>
+				]]>
+			</content>
+		</page>
+		<page>
+			<uri>apihms/association/moyens</uri>
+			<url>moyens</url>
+			<title>Moyens</title>
+			<description></description>
+			<content>
+				<![CDATA[
+					<p>Au vu de ses rapports d'activité, l'APIHMS a, pendant des années, reçu des subventions de différentes collectivités territoriales (Ville de Toulouse, Conseil Général de la Haute-Garonne, Conseil Général du Tarn), de la CPAM de la Haute-Garonne et des Universités Toulousaines.</p>
+					<p>Cependant, ces organismes, serrant eux-mêmes de plus en plus leur budget, ont peu à peu décliné nos demandes de subventions et en 2 000 seule la Mairie de Toulouse nous accordait encore une subvention. </p>
+					<p>Depuis 2005, l'APIHMS ne reçoit plus de subventions et épuise ses réserves. Or elle est à nouveau sollicitée. Ainsi en 2009, elle a déboursé 6 700 &euro; (3790 &euro; de subventions et 2910 &euro; de prêts dont les remboursements n'ont pas débuté). C'est donc l'un de ses projets de rechercher à nouveau des financements pour continuer répondre aux demandes des jeunes lycéens et étudiants en situation de handicap.</p>
+				]]>
+			</content>
+		</page>
+		<page>
+			<uri>apihms/association/coordonnees</uri>
+			<url>coordonnees</url>
+			<title>Coordonées</title>
+			<description></description>
+			<content>
+				<![CDATA[
+					<p>Association pour la Promotion des Intellectuels Handicapés Moteurs ou Sensoriels.</p>
+					<p></p>
+					<div class="cadre">
+						<address>APIHMS<br />
+						7 impasse de la Tuilerie<br />
+						31320 Castanet-Tolosan</address>
+						<p>contact@apihms.org</p>
+					</div>
+				]]>
+			</content>
+		</page>
+	</section>
+</site>
