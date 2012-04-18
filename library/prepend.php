@@ -19,6 +19,15 @@ foreach($modules as $module_name => $is_active) {
     }
 }
 
+/* session garbage collector */
+$sess_save_path = session_save_path();
+$maxlifetime    = ini_get('session.gc_maxlifetime');
+foreach (glob("$sess_save_path/sess_*") as $filename) {
+    if (filemtime($filename) + $maxlifetime < time()) {
+        @unlink($filename);
+    }
+}
+
 /* */
 session_start();
 

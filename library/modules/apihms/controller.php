@@ -40,7 +40,7 @@ class ApihmsController extends Controller {
 		$this->prepare(
 			$Apihms,
 			new ApihmsMenu(
-				$this->_model->getAssociations(array('uri', 'title')),
+				$this->_model->getAssociations(array('uri', 'title', 'hide')),
 				Apihms::$URLWriter,
 				$page,
 				'menu'

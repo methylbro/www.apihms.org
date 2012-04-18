@@ -4,7 +4,7 @@
 		<page>
 			<uri>apihms/association/index</uri>
 			<url></url>
-			<title>Qu'est ce que l'APIHMS ?</title>
+			<title>Pourquoi l'APIHMS ?</title>
 			<description></description>
 			<content>
 				<![CDATA[
@@ -15,12 +15,31 @@
 			</content>
 		</page>
 		<page>
+		    <uri>apihms/association/gilbert-azam-fondateur</uri>
+		    <url>gilbert-azam-fondateur-de-l-association</url>
+		    <title>Gilbert Azam, le fondateur de l'APIHMS</title>
+		    <description></description>
+		    <content>
+		        <![CDATA[
+		            <p>Professeur agrégé d'Espagnol, Gilbert Azam a poursuivi avec le même succès une carrière d'enseignant, de chercheur et d'écrivain</p>
+		            <p>Enseignant particulièrement apprécié, des générations d'élèves ont pu bénéficier de ses qualités pédagogiques et de son immense culture qui lui valut de soutenir avec succès en 1978 devant l'université de Toulouse II une thèse de doctorat sur l'œuvre de J.R. Jimenez.</p>
+		            <p>Chercheur infatigable toujours soucieux d'approfondir ses connaissances et de confronter ses travaux, il fut membre « del centro de Investigaciones sobre filosofia Iberica » et l'auteur de nombreux articles publiés dans des revues littéraires tant françaises qu'espagnoles.</p>
+		            <p>Ecrivain, ses premiers romans écrits à 22 ans « Au travers de son masque » et « Chargés d'un feu secret » l'ont fait connaître du public. Plus tard son recueil de poèmes « Concerto pour une âme. » lui valut d'être couronné par l'Académie des jeux floraux en 1969.</p>
+		            <p>Dans son dernier ouvrage paru en 1971 « Le printemps sauvage » il a su « nouer les fils d'une aventure que vivent trois jeunes gens sur la toile de fond de mai 68. » Handicapé moteur, Gilbert AZAM savait pour les avoir vécues les difficultés que peuvent rencontrer les personnes en situation de handicap.</p>
+		            <p>A 30 ans il décide de consacrer son énergie à leur service, notamment aux plus jeunes pour les aider dans la poursuite de leurs études universitaires, la reconnaissance de leurs aptitudes intellectuelles, leur promotion et leur insertion.</p>
+		            <p>Il crée à cet effet en 1970 avec une poignée de militants l'Association pour la Promotion des Intellectuels Handicapés Moteurs qu'il n'aura de cesse de faire vivre, reconnaître et évoluer jusqu'à sa disparition précoce, en 1986, à l'âge de 47 ans.</p>
+		        ]]>
+            </content>
+        </page>
+		<page>
+		    <hide>true</hide>
 			<uri>apihms/association/40-ans-au-service-de-l-insertion</uri>
 			<url>news/40-ans-au-service-de-l-insertion</url>
 			<title>Au service de l'insertion</title>
 			<description></description>
 			<content>
 				<![CDATA[
+					<p style="text-align:right;">Voir <a href="/news/journee-du-10-decembre-2010">le résumé de la journée &rarr;</a></a></a></p>
 					<p>L'APIHMS, créée en 1970 par un professeur du lycée spécialisé <em>Le Parc Saint-Agne</em> devenu <em>Centre Jean Lagarde</em>, organise pour l'anniversaire de ses 40 ans une manifestation sur les thèmes de l'<strong>inclusion scolaire</strong> et universitaire et de l'<strong>insertion professionnelle</strong> de personnes atteintes d'un handicap moteur ou sensoriel.</p>
 					<div class="cadre">
 						<p>Mardi 14 décembre 2010, de 14 heures à 17 heures 30</p>
@@ -36,6 +55,87 @@
 					<p><strong>Jean-Paul Génolini</strong>, Maître de conférences UFR STAPS de l'Université de Paul Sabatier. Administrateur de l'association <a href="http://lesperluette31.voila.net/">Esperluette</a>.</p>
 					<h3>L'insertion professionnelle des personnes handicapées, le cadre légal</h3>
 					<p><strong>Jean-Luc Abitteboul</strong> directeur de <a href="http://www.capemploi31.com/">CAP emploi 31</a></p>
+					<p style="text-align:right;">Voir <a href="/news/journee-du-10-decembre-2010">le résumé de la journée &rarr;</a></a></a></p>
+				]]>
+			</content>
+		</page>
+		<page>
+		    <uri>apihms/association/journee-du-10-decembre-2010</uri>
+		    <url>news/journee-du-10-decembre-2010</url>
+		    <title>Journée du 10 décembre 2010</title>
+		    <description></description>
+		    <content>
+		        <![CDATA[
+		            <p>L'APIHMS a voulu marquer l'anniversaire de ses quarante ans en organisant le 10 décembre 2010 un après-midi de trois conférences-débats sur les thèmes de l'insertion scolaire, universitaire et professionnelle à la salle Osète de l'espace Duranti, mise gracieusement à la disposition de l'association par la Mairie de Toulouse.</p>
+		            <h2>L'organisation</h2>
+		            <p>Cette manifestation s ‘adressait particulièrement aux lycéens, étudiants et jeunes professionnels en situation de handicap mais également à toute personne concernée ou intéressée par ces thèmes : parents, enseignants, professionnels du monde médico- social, représentants d'associations, représentants des institutions, autres...</p>
+		            <p>Il était prévu après chaque conférence le témoignage respectivement d'un lycéen, d'une étudiante et d'un jeune professionnel et d'un débat avec les participants.</p>
+		            <p>Ces conférences étaient interprétées en Langue des Signes Française par deux interprètes de la Scop Interprétis.</p>
+		            <h2>Conférenciers et thèmes des conférences</h2>
+		            <h3>Le vivre ensemble à l'école</h3>
+		            <p>Docteur Emmanuelle Godeau médecin de santé publique, Service médical du Rectorat de Toulouse. UMR Inserm U558 Université Paul Sabatier. Présidente de l'association « L'esperluette ».</p>
+		            <h3>L'expérience du handicap à l'université</h3>
+		            <p>Jean-Paul Génolini Maître de conférences, UFR STAPS Université Paul Sabatier. Administrateur de l'association « L'esperluette ».</p>
+		            <h3>L'insertion professionnelle des personnes handicapées, le cadre légal</h3>
+		            <p>Jean-Luc Abitteboul directeur de CAP emploi 31- Handi Pro 31</p>
+		            <p>L'APIHMS a souhaité que la manifestation se termine par la récitation d'un poème de Gilbert Azam. Outre ses qualités de professeur, <a href="/gilbert-azam-fondateur-de-l-association">Gilbert Azam</a> était écrivain et poète. C'est donc lui être fidèle de mettre la poésie en arrière fond de tout discours.</p>
+		            <h2>Le déroulement de l'après-midi</h2>
+		            <p>Le président Philippe Boissière a ouvert l'après-midi par un petit discours dans lequel il a parlé du fondateur de l'association Gilbert Azam et des difficultés de la vie étudiante il y a quarante ans pour un jeune en situation de handicap. C'est pour vaincre ces difficultés que Gilbert Azam avait créé l'APIHMS.</p>
+		            <p>Les conférenciers ont aimablement accepté de laisser leurs supports informatiques (montages Power Point, fichiers pdf) à l'association qui les mettra sur son site Internet.</p>
+		            <p>Mme Emmanuelle Godeau est médecin de santé publique, médecin conseil auprès du recteur, anthropologue et chargée de recherche à l'Inserm. Elle a parlé du « vivre ensemble à l'école », sur ce que cela recouvre pour les enfants handicapés et les autres ainsi que pour les adultes. Elle a créé dans huit établissements un atelier sur le thème : citoyenneté et handicap.</p>
+		            <p>Après la conférence de Mme Godeau, Kevin German, jeune déficient visuel en 1ère Bac Pro au Centre Jean Lagarde, a parlé de sa vie scolaire et exprimé globalement sa satisfaction tant pour la scolarité dans son établissement que pour les périodes de stage en entreprise qui pour lui se sont passées sans problème. Kevin a d'autant plus volontiers accédé à la demande de témoignage faite par l'APIHMS qu'il a en 2009 bénéficié d'une bourse linguistique de l'association pour un séjour en Angleterre.</p>
+		            <p>Mr Jean-PAUL Génolini, professeur à l'UFR STAPS, a mis en place une enquête sur les étudiants en situation de handicap à l'université Paul Sabatier: comment ils assument leur vie universitaire, comment ils se projettent professionnellement. Il a donné les conclusions de cette enquête.</p>
+		            <p>L'exposé de M. Genolini a été suivi du témoignage de deux étudiantes :</p>
+		            <ul>
+		             <li>Kelly est déficiente auditive et communique en langues des signes. Elle est étudiante à l'IUFM où elle prépare le concours de professeur des écoles. Elle fait part des difficultés qu'elle rencontre mais également des efforts faits par ses camarades d'études dont certains se mettent à la langue des signes pour mieux communiquer avec elle.</li>
+		             <li>Sophie Lombard : après une scolarité au Parc Saint-Agne, elle a obtenu une maîtrise d'anglais à l'université du Mirail. Au cours de ses études elle a suivi un atelier de théâtre. Après sa maîtrise elle a créé une troupe de théâtre et s'occupe de la mise en scène.</li>
+		            </ul>
+		            <p>M. Abitboul, directeur de Handi Pro Cap Emploi, donne la dernière conférence sur l'insertion professionnelle des personnes en situation de handicap en parlant plus particulièrement du cadre légal. Homme de terrain, il expose les services qu'offre Handipro pour l'insertion ou la réinsertion professionnelle à partir de situations qu'il a rencontrées. Il donne également (entre autres) des statistiques comparant le taux d'emploi des personnes handicapées et celui des personnes valides suivant les niveaux de formation.</p>
+		            <p>Après cette conférence est donné le dernier témoignage. Audrey Pilla, après une scolarité au Parc Saint-Agne, a obtenu un diplôme d'assistante sociale. Elle travaille actuellement sur deux mi-temps : l'un à EDF, l'autre dans un établissement médico-social. Elle parle avec beaucoup de sérénité de son parcours et des difficultés qu'elle rencontre occasionnellement. Elle a bon espoir d'obtenir un travail à temps complet.</p>
+		            <p>Pour finir, Quentin Armajach, collégien en classe de troisième au centre Jean Lagarde, a récité un poème de Gilbert Azam, laissant le dernier mot à la poésie, après des conférences et des débats qui ont exigé beaucoup d'attention.</p>
+		            <p>M. Viguié, vice-président de l'association, qui a assuré au micro toute l'après-midi la régulation des débats, clôt la manifestation en remerciant les participants et particulièrement les conférenciers et les jeunes qui sont intervenus et invite tout le monde à se rendre à l'entrée de la salle Duranti pour un cocktail.</p>
+		            <h2>Bilan</h2>
+		            <p>Cette manifestation a permis d'apporter des informations aux jeunes lycéens, étudiants et professionnels ou chercheurs d'emploi et, grâce aux débats qui ont suivi chaque conférence, elle a été l'occasion d'échanges entre ces jeunes et les personnes impliquées dans le monde scolaire, universitaire et professionnel.</p>
+		            <p>Le témoignage de jeunes étudiants ou professionnels a pu les aider à se projeter avec plus de confiance vers l'avenir. Nous avons eu la chance d'avoir le témoignage de jeunes qui n'ayant pas été épargnés par les difficultés ont surmonté avec succès les obstacles qu'ils avaient rencontrés ou qui n'ont pas eu peur d'oser entreprendre.</p>
+		            <p>Au final il est permis de dire que cette manifestation a été une réussite par ce qu'elle a pu apporter aux participants. D'autre part, en se faisant mieux connaître, l'APIHMS a pu communiquer sur les services qu'elle a rendus et qu'elle est amenée à rendre, en restant fidèle aux intuitions de son fondateur, en s'adaptant aux situations nouvelles et en proposant à toute personne intéressée par ses objectifs de venir la rejoindre.</p>
+		        ]]>
+            </content>
+        </page>
+		<page>
+		    <uri>apihms/association/projet-atelier-theatre</uri>
+		    <url>news/projet-atelier-theatre</url>
+		    <title>Projet atelier théâtre</title>
+		    <description></description>
+		    <content>
+		        <![CDATA[
+		            <p>L'idée de l'atelier théâtre est née de la rencontre entre quelques membres de l'APIHMS et Sophie Lombard, actrice et créatrice d'une compagnie de théâtre, la compagnie « Full Lights ».</p>
+		            <p>Cette idée s'est précisée par la réponse à l'appel à projet Handiculture Midi-Pyrénées. Le but de cet atelier théâtre est de permettre à des étudiants valides et handicapés de vivre une expérience artistique commune.</p>
+		            <p>Cet atelier s'adresse également à des lycéens en situation de handicap, afin de leur permettre une ouverture sur le monde universitaire.</p>
+		            <p>L'APIHMS est promoteur du projet et s'est associée à Sophie Lombard, animatrice de l'atelier et au SAHEHD (Service d'Accompagnement et d'Hebergement pour Etudiants Handicapés Dépendants). Les ateliers ont lieu dans les locaux du SAHEHD, situé sur le site de l'Université Paul Sabatier, dans la résidence étudiante Clément Ader. Mme Marie Gasnault, directrice du SAHEHD soutient activement ce projet et participe à sa communication.</p>
+		            <p>Les ateliers ont commencé par une séance d'information le mercredi 9 novembre et ont lieu tous les mercredi de 18h30 à 20h30 dans une salle du SAHEHD. Renseignements et inscriptions : lombard_sophie@hotmail.com</p>
+		            <p>Téléphone : 06 21 57 58 47, 05 61 00 10 03</p>
+		            <p>Il est possible de s'inscrire jusqu'au mois de janvier.</p>
+		        ]]>
+            </content>
+        </page>
+		<page>
+		    <hide>true</hide>
+			<uri>apihms/association/bourses-linguistiques-2012</uri>
+			<url>news/bourses-linguistiques-2012</url>
+			<title>Bourses linguistiques</title>
+			<description></description>
+			<content>
+				<![CDATA[
+					<p>L'APIHMS organise un appel à candidatures s'adressant à des étudiants en situation de handicap moteur ou sensoriel pour deux bourses linguistiques au titre de l'année universitaire 2011-2012.</p>
+					<p>Le principal objectif de ces bourses linguistiques est de permettre la progression dans l'étude d'une langue (par exemple en prenant des cours sur place) et la découverte culturelle d'un pays.</p>
+					<p>Cette bourse peut également servir à un stage en entreprise ou dans une unité de recherche universitaire.</p>
+					<p>Ce prix récompensera 2 lauréats :</p>
+					<ul>
+					  <li>- 1<small>er</small> prix : 1 200 €</li>
+					  <li>- 2<small>ème</small> prix : 800 €</li>
+					</ul>
+					<p>Un compte rendu au retour du séjour linguistique des 2 lauréats sera demandé pour le site Internet de l'APIHMS.</p>
+					<p>Les étudiants intéressés doivent présenter leur projet à l'adresse : <a href="/coordonnees">contact@apihms.org</a> avant le <strong>10 mai 2012</strong>. Les candidats seront informés de la réponse faite à leur candidature au plus tard le <strong>24 mai 2012</strong>.</p>
 				]]>
 			</content>
 		</page>
@@ -48,6 +148,13 @@
 				<![CDATA[
 					<p>L'APIHMS  a été créée en 1970 par Gilbert Azam, professeur agrégé d'espagnol au lycée spécialisé &laquo; Le Parc Saint-Agne &raquo; à Ramonville, établissement (collège, lycée, lycée professionnel) devenu depuis 2001 le Centre Jean Lagarde.</p>
 					<p>M. Azam était lui-même handicapé et avait  rencontré pour cette raison des difficultés pratiques dans son cursus universitaire. C'est pour améliorer les conditions de vie des étudiants handicapés mais également pour défendre pour eux une promotion à la mesure de leurs compétences qu'il avait créé l'APIHMS, en s'entourant de personnes, handicapées ou non, mobilisées par cet objectif.</p>
+					<p>L'association a mis en place différents services qui n'existaient pas à cette époque pour faciliter la vie des étudiants en situation de handicap :</p>
+					<ul>
+					    <li>transport universitaire (jusqu'en 1987).</li>
+					    <li>aides financières pour l'acquisition de matériel spécifique.</li>
+					    <li>bourses linguistiques.</li>
+					    <li>différentes aides pour le suivi universitaire.</li>
+					</ul>
 					<p>Après le décès de M. Azam en 1986, Christian Séréna, professeur d'anglais au Parc Saint-Agne, a assuré la présidence de l'Association pendant une année.</p>
 					<p>Depuis 1988, Philippe Boissière, ancien élève du Parc Saint Agne et ingénieur-chercheur à l'IRIT (Institut de Recherche en Informatique de Toulouse) assume la présidence de l'APIHMS.</p>
 				]]>
@@ -62,14 +169,20 @@
 				<![CDATA[
 					<p>Au vu de ses rapports d'activité, l'APIHMS a, pendant des années, reçu des subventions de différentes collectivités territoriales (Ville de Toulouse, Conseil Général de la Haute-Garonne, Conseil Général du Tarn), de la CPAM de la Haute-Garonne et des Universités Toulousaines.</p>
 					<p>Cependant, ces organismes, serrant eux-mêmes de plus en plus leur budget, ont peu à peu décliné nos demandes de subventions et en 2 000 seule la Mairie de Toulouse nous accordait encore une subvention. </p>
-					<p>Depuis 2005, l'APIHMS ne reçoit plus de subventions et épuise ses réserves. Or elle est à nouveau sollicitée. Ainsi en 2009, elle a déboursé 6 700 &euro; (3790 &euro; de subventions et 2910 &euro; de prêts dont les remboursements n'ont pas débuté). C'est donc l'un de ses projets de rechercher à nouveau des financements pour continuer répondre aux demandes des jeunes lycéens et étudiants en situation de handicap.</p>
+					<p>Depuis 2007, l'APIHMS ne reçoit plus de subventions et épuise ses réserves. Or elle est à nouveau sollicitée. Ainsi en 2009, elle a déboursé 6 700 &euro; (3790 &euro; de subventions et 2910 &euro; de prêts dont les remboursements n'ont pas débuté). C'est donc l'un de ses projets de rechercher à nouveau des financements pour continuer répondre aux demandes des jeunes lycéens et étudiants en situation de handicap.</p>
+					<p>Des demandes de subventions ont à nouveau été faites en 2011 mais seule celle faite auprès de la Mairie de Toulouse a reçu une réponse favorable, pour un montant de 700 €.</p>
+					<h2>Remerciements</h2>
+					<p style="text-align:center;">
+					  <a href="http://caisse-epargne.fr" rel="nofollow"><img src="/images/caisse-epargne.gif" alt="Caisse D'Épargne" /></a>
+					  <a href="http://toulouse.fr" rel="nofollow"><img src="/images/mairie-toulouse.jpg" alt="Mairie de Toulouse" /></a>
+					</p>
 				]]>
 			</content>
 		</page>
 		<page>
 			<uri>apihms/association/coordonnees</uri>
 			<url>coordonnees</url>
-			<title>Coordonées</title>
+			<title>Coordonnées</title>
 			<description></description>
 			<content>
 				<![CDATA[
