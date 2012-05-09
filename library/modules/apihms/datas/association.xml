@@ -108,13 +108,31 @@
 		    <description></description>
 		    <content>
 		        <![CDATA[
-		            <p>L'idée de l'atelier théâtre est née de la rencontre entre quelques membres de l'APIHMS et Sophie Lombard, actrice et créatrice d'une compagnie de théâtre, la compagnie « Full Lights ».</p>
+		            <p><a href="/news/cro-magnons-et-cro-magnones" style="float:left;margin-right:10px;"><img src="/images/atelier-theatre-sahehd-23-mai-2012.thumb.jpg" alt="Affiche de Cro-Magnons et Cro-Magnones le 23 mai 2012 au SAHEHD à Toulouse" /></a>L'idée de l'atelier théâtre est née de la rencontre entre quelques membres de l'APIHMS et Sophie Lombard, actrice et créatrice d'une compagnie de théâtre, la compagnie « Full Lights ».</p>
 		            <p>Cette idée s'est précisée par la réponse à l'appel à projet Handiculture Midi-Pyrénées. Le but de cet atelier théâtre est de permettre à des étudiants valides et handicapés de vivre une expérience artistique commune.</p>
 		            <p>Cet atelier s'adresse également à des lycéens en situation de handicap, afin de leur permettre une ouverture sur le monde universitaire.</p>
 		            <p>L'APIHMS est promoteur du projet et s'est associée à Sophie Lombard, animatrice de l'atelier et au SAHEHD (Service d'Accompagnement et d'Hebergement pour Etudiants Handicapés Dépendants). Les ateliers ont lieu dans les locaux du SAHEHD, situé sur le site de l'Université Paul Sabatier, dans la résidence étudiante Clément Ader. Mme Marie Gasnault, directrice du SAHEHD soutient activement ce projet et participe à sa communication.</p>
 		            <p>Les ateliers ont commencé par une séance d'information le mercredi 9 novembre et ont lieu tous les mercredi de 18h30 à 20h30 dans une salle du SAHEHD. Renseignements et inscriptions : lombard_sophie@hotmail.com</p>
 		            <p>Téléphone : 06 21 57 58 47, 05 61 00 10 03</p>
 		            <p>Il est possible de s'inscrire jusqu'au mois de janvier.</p>
+		        ]]>
+            </content>
+        </page>
+		<page>
+		    <hide>true</hide>
+		    <uri>apihms/association/cro-magnons-et-cro-magnones</uri>
+		    <url>news/cro-magnons-et-cro-magnones</url>
+		    <title>Cro-Magnons et Cro-Magnones au théâtre</title>
+		    <description></description>
+		    <content>
+		        <![CDATA[
+		            <p>La compagnie « Full Lights » en collaboration avec l'<a href="/">APIHMS</a> et le <strong>SAHEHD</strong> présente l'<a href="/news/projet-atelier-theatre">atelier théâtre 2012</a> dans <strong>Cro-Magnons et Cro-Magnones</strong> d'après des textes de <em>Anne-Marie Carrière</em>, <em>Pascal Martin</em> et <em>Isabelle Oheix</em>.</p>
+		            <div>
+	                <div style="width:48%;float:left;margin-right:1%;">
+	                <a href="/images/atelier-theatre-sahehd-23-mai-2012.jpg" style="float:left;margin-right:10px;"><img src="/images/atelier-theatre-sahehd-23-mai-2012.thumb.jpg" alt="Affiche de Cro-Magnons et Cro-Magnones le 23 mai 2012 au SAHEHD à Toulouse" style="border:1px solid #652A40;" /></a><h3 style="margin-top:0;">23 Mai 2012</h3><p>Apéro-Spectacle (entrée libre) le Mercredi 23 Mai 2012 à 20h au SAHEHD, Résidence Clément Ader.</p></div>
+		            <div style="width:48%;float:left;margin-left:1%;"><a href="/images/atelier-theatre-minimes-25-mai-2012.jpg" style="float:left;margin-right:10px;"><img src="/images/atelier-theatre-minimes-25-mai-2012.thumb.jpg" alt="Affiche de Cro-Magnons et Cro-Magnones le 23 mai 2012 au centre culturel des Minimes à Toulouse" style="border:1px solid #652A40;" /></a><h3 style="margin-top:0;">25 Mai 2012</h3><p>Le Vendredi 25 Mai 2012 à 21h au Centre Culturel des Minimes.</p></div>
+		            </div>
+		            <p style="float:left;width:100%;margin-top:30px;text-align:right;font-size:10px;">Renseignements et Réservations : 06 21 57 58 47</p>
 		        ]]>
             </content>
         </page>
