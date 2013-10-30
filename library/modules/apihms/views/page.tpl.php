@@ -24,43 +24,16 @@
       <div class="content">
 
         <div class="col">
-        <!--
-          <h2>40 ans au service de l'insertion</h2>
+          <h2><a href="/news/zohra-morrhad-new-york-2013">Zohra Morrhad à New York City</a></h2>
           <p>
-            L'APIHMS organise une manifestation sur les thèmes de l'inclusion
-            scolaire et universitaire et de l'insertion professionnelle
-            <a href="/<?php echo $URLWriter->findAlias('apihms/association/40-ans-au-service-de-l-insertion')?>">le 14 décembre 2010</a>.
-          </p>
-        -->
-        <!--
-          <h2>L'Atelier Théâtre 2011/2012</h2>
-          <p>
-            La compagnie <strong>Full Light</strong> avec le soutien de l'<a href="/">APIHMS</a>
-            et du SAHEHD vous invite à venir découvrir les joies de la scène en participant à
-            <a href="/<?php echo $URLWriter->findAlias('apihms/association/projet-atelier-theatre')?>">l'Atelier théâtre 2011/2012</a>.
-          </p>
-        -->
-        <!--
-          <h2>Bourses linguistiques 2012</h2>
-          <p>
-            L'<a href="/">APIHMS</a> organise un <a href="/<?php echo $URLWriter->findAlias('apihms/association/bourses-linguistiques-2012')?>">appel à candidatures</a> s'adressant à des <strong>étudiants</strong> en situation de <strong>handicap moteur ou sensoriel</strong> pour deux bourses linguistiques au titre de l'année universitaire 2011-2012.
-          </p>
-        -->
-          <h2>Cro-Magnons et Cro-Magnones</h2>
-          <p>
-            <a href="/news/cro-magnons-et-cro-magnones" style="float:left;margin-right:10px;"><img src="/images/atelier-theatre-sahehd-23-mai-2012.thumb.jpg" alt="Affiche de Cro-Magnons et Cro-Magnones le 23 mai 2012 au SAHEHD à Toulouse" width="auto" height="85" style="border:1px solid #652A40;" /></a>
-            Les Mercredi 23 et Vendredi 25 Mai 2012, l'<a href="/<?php echo $URLWriter->findAlias('apihms/association/projet-atelier-theatre')?>">atelier théâtre</a> de l'<a href="/">APIHMS</a> et le <strong>SAHEHD</strong> présente <a href="/<?php echo $URLWriter->findAlias('apihms/association/cro-magnons-et-cro-magnones')?>">Cro-Magnons et Cro-Magnones</a> à Toulouse.
+            Chaque jour passé à New York City a été une découverte de la ville <a href="/news/zohra-morrhad-new-york-2013">...</a>
           </p>
         </div>
         <div class="separate-col"></div>
         <div class="col">
-        <!--
-          <h2>APIHMS</h2>
-          <p>Le handicap ne doit pas interdire le développement et l'exercice des facultés intellectuelles, ni s'opposer à l'épanouissement de l'individu ou à son accès à la vie sociale, culturelle et professionnelle.</p>
-        -->
-          <h2>Bourses linguistiques 2012</h2>
+          <h2><a href="news/guillaume-de-la-ville-montbazon-canada-2013">Guillaume De La Ville Montbazon au Canada</a></h2>
           <p>
-            L'<a href="/">APIHMS</a> organise un <a href="/<?php echo $URLWriter->findAlias('apihms/association/bourses-linguistiques-2012')?>">appel à candidatures</a> s'adressant à des <strong>étudiants</strong> en situation de <strong>handicap moteur ou sensoriel</strong> pour deux bourses linguistiques au titre de l'année universitaire 2011-2012.
+            La <a href="/news/bourses-linguistiques-2012">bourse linguistique</a> de l’APIHMS m’a grandement aidé pour le financement de mon stage <a href="news/guillaume-de-la-ville-montbazon-canada-2013">...</a>
           </p>
         </div>
 
