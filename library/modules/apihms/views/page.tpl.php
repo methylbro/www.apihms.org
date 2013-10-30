@@ -31,7 +31,7 @@
         </div>
         <div class="separate-col"></div>
         <div class="col">
-          <h2><a href="news/guillaume-de-la-ville-montbazon-canada-2013">Guillaume De La Ville Montbazon au Canada</a></h2>
+          <h2><a href="/news/guillaume-de-la-ville-montbazon-canada-2013">Guillaume De La Ville Montbazon au Canada</a></h2>
           <p>
             La <a href="/news/bourses-linguistiques-2012">bourse linguistique</a> de l’APIHMS m’a grandement aidé pour le financement de mon stage <a href="news/guillaume-de-la-ville-montbazon-canada-2013">...</a>
           </p>
